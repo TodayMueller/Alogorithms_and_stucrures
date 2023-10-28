@@ -1,0 +1,9 @@
+﻿  Algorithsms_and_.cpp
+C:\Users\dmfm3\OneDrive\Рабочий стол\работа\algorithms_and_structures\Algorithsms_and_\Algorithsms_and_.cpp(603,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\dmfm3\OneDrive\Рабочий стол\работа\algorithms_and_structures\Algorithsms_and_\Algorithsms_and_.cpp(604,34): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\dmfm3\OneDrive\Рабочий стол\работа\algorithms_and_structures\Algorithsms_and_\Algorithsms_and_.cpp(565): warning C4715: tree_min: значение возвращается не при всех путях выполнения
+C:\Users\dmfm3\OneDrive\Рабочий стол\работа\algorithms_and_structures\Algorithsms_and_\Algorithsms_and_.cpp(560): warning C4715: BookSearch: значение возвращается не при всех путях выполнения
+C:\Users\dmfm3\OneDrive\Рабочий стол\работа\algorithms_and_structures\Algorithsms_and_\Algorithsms_and_.cpp(631): warning C4715: ClearBook: значение возвращается не при всех путях выполнения
+C:\Users\dmfm3\OneDrive\Рабочий стол\работа\algorithms_and_structures\Algorithsms_and_\Algorithsms_and_.cpp(659): warning C4715: push: значение возвращается не при всех путях выполнения
+C:\Users\dmfm3\OneDrive\Рабочий стол\работа\algorithms_and_structures\Algorithsms_and_\Algorithsms_and_.cpp(793): warning C4715: ListSort: значение возвращается не при всех путях выполнения
+  Algorithsms_and_.vcxproj -> C:\Users\dmfm3\OneDrive\Рабочий стол\работа\algorithms_and_structures\x64\Debug\Algorithsms_and_.exe
